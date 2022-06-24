@@ -921,6 +921,7 @@ body {
 }
 
 .modal__close {
+  cursor: pointer;
   margin: 0;
   padding: 0;
   position: absolute;
